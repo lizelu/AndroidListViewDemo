@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidListViewDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_list_view">FirstListViewActivit</string>
+    <string name="title_activity_custome_item_list_view">CustomeItemListViewActivity</string>
+    <string name="item_top_left_title">出借金额(元)</string>
+    <string name="item_top_title">产品名称</string>
+    <string name="item_top_center_title">预期收益(元)</string>
+    <string name="item_top_right_title">到期日</string>
+</resources>
